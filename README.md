@@ -1,7 +1,7 @@
 - 👋 Oi, estou @FreitasNovoHumano
 - 👀 Estou interessado em Full Stack PHP Developer
 - 🌱 Estou aprendendo Full Stack PHP Developer na 'UpInside Treinamentos'
-- 💞️ Estou procurando colaborar em grandes projetos como freelancer ou autônomo 
+- 💞️ Estou procurando colaborar em pequenos projetos como freelancer ou autônomo 
 - 📫 Contatos: 31 98956-1523 / fabiofreitas82@yahoo.com.br / ecommercefreitas@gmail.com
 
 <!---
